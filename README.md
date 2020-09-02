@@ -273,7 +273,7 @@ npm login
 ```
 进行登录再操作。
 发布成功的效果：
-<img src="./assets/imgs/5.png">
+<img src="./assets/imgs/5.png">     
 [就可以在npm平台看到该组件了](https://www.npmjs.com/package/toast-component)
 
 ### [附](#fulu)
